@@ -1,0 +1,10 @@
+.wrapper {
+  width: 100%;
+  padding-top: 50px;
+  background: #ECEFF1;
+  padding: 20px;
+}
+
+.wrapper.game-ended {
+  background-color: red;
+}
